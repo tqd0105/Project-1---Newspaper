@@ -1,0 +1,24 @@
+Hãy viết trang web thực hiện đúng các yêu cầu sau:
+*  MỨC ĐỘ TỪ THẤP ĐẾN CAO - Deadline: 20/05/2024 *
+** Đánh dấu là F(finish) nếu hoàn thành, U (unfinish) nếu chưa hoàn thành đúng tiến độ **
+---PART 1---
+PROJECT 1
+
+~ MỨC ĐỘ 1
+1. Hoàn thành header, footer, main + tạo giao diện cho chúng 
+2. Hoàn thành các nút ở phần main có thể tương tác được
+3. Hoàn thành phần giao diện ở header
+4. Hoàn thành phần liên hệ ở footer
+5. Hoàn thành một trang web đọc báo đơn giản
+
+PROJECT 2
+
+~ MỨC ĐỘ 2
+1. Tương tự mục 1,2,3,4 tương tự mức độ 1 nhưng điều chỉnh giao diện phù hợp với yêu cầu bên dưới.
+2. Hoàn thành trang web bán hàng đơn giản
+
+|*** GOOD LUCK ***|
+
+---PART 2---
+Bắt đầu từ 25/05/2024
+Yêu cầu: Updating .....
